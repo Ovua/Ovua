@@ -17,25 +17,11 @@
   <br/>
 
 I'm Ivan Puddighinu, Full Stack Developer from Italy, in love with coding, music production and 3D modelling!
-
-### My Opensource Story
-My projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
-- [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
-
-
-
-Most of my leisure time is to contribute to open-source projects on GitHub. Acknowledging my extensive contribution to DuckDuckGo's open source projects, I was promoted as a maintainer and community leader with write access to all DuckDuckGo's repositories. I had contributed to Mozilla, Angular, Svelte, Node.JS, and several other open-source projects and organizations.
-
-I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
-
-You can learn more about me and my open source journey at my website: [https://www.gautamkrishnar.com/](https://www.gautamkrishnar.com/)
-
-Most of the open-source projects I create are the solutions to the problems I face in my life, there are even more that are yet unsolved. I am on a journey to find solutions for them, one at a time.
+I like hard work and helping for team success. I have a strong passion for learning and implementing new web technologies. 
+As a Web Developer, my goal is to be a competent, inspiring, and creative developer.
 
 ### Awards and Achievements
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-- Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
-- Won 1st place in Several Hackathons
+- Won the 1st place of the Develhope hacking week with my team! 
 </details> 
 
 <details>
