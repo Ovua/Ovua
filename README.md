@@ -1,6 +1,5 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 🔭 &nbsp;I’m currently working on my personal site :wink:
 - 🌱 &nbsp;I’m currently learning React, Three.js, Tensorflow.js
 - 📫 &nbsp;How to reach me: [@ivanpuddighinu](https://www.linkedin.com/in/ivan-puddighinu)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s, :cat:s, 🎵 and Xbox Gaming (GamerTag: [Ovua](https://account.xbox.com/en-us/profile?gamertag=Ovua))
