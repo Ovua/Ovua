@@ -4,6 +4,9 @@
 - 📫 &nbsp;How to reach me: [@ivanpuddighinu](https://www.linkedin.com/in/ivan-puddighinu)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s, :cat:s, 🎵 and Xbox Gaming (GamerTag: [Ovua](https://account.xbox.com/en-us/profile?gamertag=Ovua))
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/ivan-puddighinu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanpuddighinu" height="30" width="40" /></a>
