@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi, <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Im Ivan Puddighinu
 
 - 🌱 &nbsp;I’m currently learning React, Three.js, Tensorflow.js
 - 📫 &nbsp;How to reach me: [@ivanpuddighinu](https://www.linkedin.com/in/ivan-puddighinu)
