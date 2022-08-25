@@ -3,7 +3,7 @@
 - 🔭 &nbsp;I’m currently working on my personal site :wink:
 - 🌱 &nbsp;I’m currently learning React, Three.js
 - 📫 &nbsp;How to reach me: [@ivanpuddighinu](https://www.linkedin.com/in/ivan-puddighinu)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s, :cat:s, :music: and Xbox Gaming (GamerTag: [Ovua](https://account.xbox.com/en-us/profile?gamertag=Ovua))
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s, :cat:s, 🎵 and Xbox Gaming (GamerTag: [Ovua](https://account.xbox.com/en-us/profile?gamertag=Ovua))
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
