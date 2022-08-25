@@ -9,8 +9,8 @@
 <a href="https://www.linkedin.com/in/ivan-puddighinu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanpuddighinu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19845974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 
-  
- <b>✨&nbsp;&nbsp;About&nbsp;Me</b>
+ <details> 
+ <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
 I'm Ivan Puddighinu, Full Stack Developer from Italy, in love with coding, music production and 3D modelling!
@@ -19,7 +19,7 @@ As a Web Developer, my goal is to be a competent, inspiring, and creative develo
 
 ### Awards and Achievements
 - Won the 1st place of the Develhope hacking week with my team! 
-
+</details>
 
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
   <br/>
