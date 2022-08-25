@@ -16,7 +16,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am Ivan Puddighinu, Full Stack Developer from Italy.
+I'm Ivan Puddighinu, Full Stack Developer from Italy, in love with coding, music production and 3D modelling!
 
 ### My Opensource Story
 My projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
