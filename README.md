@@ -2,7 +2,7 @@
 
 - 🌱 &nbsp;I’m currently learning React, Three.js, Tensorflow.js
 - 📫 &nbsp;How to reach me: [@ivanpuddighinu](https://www.linkedin.com/in/ivan-puddighinu)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s, :cat:s, 🎵 and Xbox Gaming (GamerTag: [Ovua](https://account.xbox.com/en-us/profile?gamertag=Ovua))
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ovua&show_icons=true&theme=buefy)
 
@@ -16,7 +16,7 @@
  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I'm Ivan Puddighinu, Full Stack Developer from Italy, in love with coding, music production and 3D modelling!
+I'm Ivan Puddighinu, Full Stack Developer from Italy
 I like hard work and helping for team success. I have a strong passion for learning and implementing new web technologies. 
 As a Web Developer, my goal is to be a competent, inspiring, and creative developer.
 
